@@ -1,3 +1,3 @@
 # DesafiosPessoais
 Desafios Pessoais 
-Minhas ideias aqui !
+Minhas ideias e Algumas Atividades aqui !
