@@ -1,2 +1,3 @@
 # DesafiosPessoais
-Minhas ideias e Algumas Atividades aqui !
+Atividades de Revisão: For, While, If/else
+
